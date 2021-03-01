@@ -1,0 +1,5 @@
+commit d53cad8608ac3094d5f5ba17db2cced66220ab87
+Author: Alfredo Sabena <alfredo.sabena@mi.unc.edu.ar>
+Date:   Fri Feb 26 01:40:25 2021 -0300
+
+    "Guardamos por primera vez el archivo en git, en el último cambio le agregué un dataframe de prueba que contenga a todas las críticas de una estrella y no sólo las de la categoría de home.
