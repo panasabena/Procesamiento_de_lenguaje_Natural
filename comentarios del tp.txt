@@ -1,0 +1,88 @@
+> Palabras más relevantes del gráfico de 1 estrella:
+
+No: es la palabra más repetida. Está repetida 4298 veces.
+Lo que me parece sumamente lógico, 
+que tenga que ver con una connotación negativa de las criticas.
+producto: Se repite 2399 veces. Es la palabra más repetida seguido de No,
+lo que también me parece que tiene mucho sentido,
+ya que al no estar conforme, las criticas tienden a 
+ser; "No compre este producto", "No elegí este producto" 
+o simplemente el lema de "No producto".
+Mal, mala, recomiendo: tiene sentido que esten fuertemente vinculadas con esta
+puntuación.
+En este caso los tres puntos suspensivos "...", pueden hacer referencia a 
+suspenso, decepción u otras cosas y suelen ser usados para lo siguiente:
+-Para indicar la existencia en el discurso de una pausa transitoria que
+ expresa duda, temor, vacilación o suspenso. Ejemplo "Si yo te contara como llegó el producto ..."
+-Para insinuar, evitando su reproducción, expresiones o palabras malsonantes
+ o inconvenientes: A veces se colocan tras la letra inicial del término que se insinúa:
+" Vete a la m..."
+Cuando, por cualquier otro motivo, 
+se desea dejar el enunciado incompleto y en suspenso:
+ "Aspecto muy desagradable..."
+!= signo de exclamación 1791 veces repetido. Usualmente usado para darle énfasis
+a las emociones.
+
+> Palabras más relevantes del gráfico de 2 estrellas:
+
+No: Se repite 3073 veces. Si bien, se ve que el puntaje sigue siendo negativo,
+la palabra No, que obviamente indica negación, se repite menos veces.
+bien: Se repite 3033 veces. A simple vista, uno puede relacionarlo con
+algo positivo, pero dado que es la segunda palabra más repetida. Claramente
+está estrechamente relacionada con "No", bajo el lema de "No bien".
+calidad: 1833 veces repetida.
+Otro dato que también me llamó la atención fué que el caracter "!", ya no se
+encuentra en el top 30 de palabras más repetidas, lo que indica que los
+clientes obviamente no están satisfechos con su compra, pero al menos 
+no parecen estar tan enojados, ya que no hay síntomas de querer hacer énfasis
+sobre algo negativo.
+
+> Palabras más relevantes del gráfico de 3 estrellas:
+
+Vemos como el panorama de negatividad empieza a cambiar y 
+que ya no figura la palabra "No" primera en el ranking.
+bien: Se repite 4345 veces. 
+No: Se repite 1855.
+Puede estar relacionado al lema "No estoy conforme".
+Y algo que me pareció curioso fué la presencia en el top 10 de la
+palabra "aunque". Lo que indica que el cliente compró algo que le puede 
+servir o que cumple en parte sus expectativas, "aunque" no del todo.
+Cabe notar que las palabras derivadas de "puede" y "mejor/mejorar".
+Haciendo referencia al lema de "puede mejorar" ó "puede estar mejor"
+Aparecen en el top 15 de la lista, y es claro que el cliente no está
+completamente satisfecho con su compra. Y tiene intenciones de mejora.
+
+> Palabras más relevantes del gráfico de 4 estrellas:
+
+Es bastante claro que hay mucha más palabras positivas a partir de 
+las 4 estrellas:
+bien: 4428 veces repetida
+calidad: 2133 veces repetida
+buena: 2132 veces repetida
+buen: 1241
+Son palabras que marcan una significativa satisfacción.
+
+> Palabras más relevantes del gráfico de 5 estrellas:
+
+Me llamó la atención que la palabra bien no se repitiera bastante.
+bien: 2921 veces repetida.
+calidad: 2423 veces repetida
+buena: 2321 veces repetida
+Pero luego al ver la nueva aparición del signo de exlamación "!"
+en el top 5 
+!: 1795 veces repetido.
+Se puede ver que el cliente hizo énfasis en su satisfacción con el producto.
+Y además vemos que aparece la palabra "perfecto" dentro del top 10 de palabras 
+más repetidas.
+
+En conclusión puedemos afirmar que el uso de ciertas palabras en
+las críticas están relacionadas con el puntaje dado y con el grado de 
+conformidad del cliente con respecto al producto.
+
+El signo de exclamación se repite en la misma posición, en ambos polos. 
+Para las críticas de una estrella y para las de 5. Se puede pbservar que
+los comportamimentos se asemejan en los extremos.
+
+
+
+
